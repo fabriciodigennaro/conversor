@@ -1,0 +1,16 @@
+.navbar {
+    height: 80px;
+}
+
+.navbar-brand {
+    font-size:  1.3rem;
+}
+
+.navbar-brand {
+    color: rgb(243, 126, 145);
+    font-weight: 600;
+}
+
+.navbar-brand:hover {
+    color: rgb(243, 126, 145);
+}
